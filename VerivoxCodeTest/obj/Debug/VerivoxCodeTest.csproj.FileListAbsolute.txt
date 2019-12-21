@@ -1,0 +1,5 @@
+C:\Users\NishaPC\source\repos\VerivoxCodeTest\bin\Debug\VerivoxCodeTest.exe.config
+C:\Users\NishaPC\source\repos\VerivoxCodeTest\bin\Debug\VerivoxCodeTest.exe
+C:\Users\NishaPC\source\repos\VerivoxCodeTest\bin\Debug\VerivoxCodeTest.pdb
+C:\Users\NishaPC\source\repos\VerivoxCodeTest\obj\Debug\VerivoxCodeTest.exe
+C:\Users\NishaPC\source\repos\VerivoxCodeTest\obj\Debug\VerivoxCodeTest.pdb
